@@ -86,4 +86,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
+client-only/dist/
+!client-only/dist/index.html
